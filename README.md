@@ -1,5 +1,3 @@
-# sales-analytics-project
-
 # Sales Analytics Project
 
 ## Overview
